@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = StopWatchApplication.Tests
-build_property.ProjectDir = D:\Class\ARVR\StopWatch\StopWatchApplication.Tests\
+build_property.ProjectDir = C:\Users\ADMIN\StopWatch\StopWatchApplication.Tests\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

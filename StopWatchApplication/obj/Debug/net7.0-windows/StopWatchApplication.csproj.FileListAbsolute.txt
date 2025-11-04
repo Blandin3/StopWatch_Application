@@ -1,0 +1,15 @@
+C:\Users\ADMIN\StopWatch\StopWatchApplication\bin\Debug\net7.0-windows\StopWatchApplication.exe
+C:\Users\ADMIN\StopWatch\StopWatchApplication\bin\Debug\net7.0-windows\StopWatchApplication.deps.json
+C:\Users\ADMIN\StopWatch\StopWatchApplication\bin\Debug\net7.0-windows\StopWatchApplication.runtimeconfig.json
+C:\Users\ADMIN\StopWatch\StopWatchApplication\bin\Debug\net7.0-windows\StopWatchApplication.dll
+C:\Users\ADMIN\StopWatch\StopWatchApplication\bin\Debug\net7.0-windows\StopWatchApplication.pdb
+C:\Users\ADMIN\StopWatch\StopWatchApplication\obj\Debug\net7.0-windows\StopWatchApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\StopWatch\StopWatchApplication\obj\Debug\net7.0-windows\StopWatchApplication.AssemblyInfoInputs.cache
+C:\Users\ADMIN\StopWatch\StopWatchApplication\obj\Debug\net7.0-windows\StopWatchApplication.AssemblyInfo.cs
+C:\Users\ADMIN\StopWatch\StopWatchApplication\obj\Debug\net7.0-windows\StopWatchApplication.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\StopWatch\StopWatchApplication\obj\Debug\net7.0-windows\StopWatchApplication.sourcelink.json
+C:\Users\ADMIN\StopWatch\StopWatchApplication\obj\Debug\net7.0-windows\StopWatchApplication.dll
+C:\Users\ADMIN\StopWatch\StopWatchApplication\obj\Debug\net7.0-windows\refint\StopWatchApplication.dll
+C:\Users\ADMIN\StopWatch\StopWatchApplication\obj\Debug\net7.0-windows\StopWatchApplication.pdb
+C:\Users\ADMIN\StopWatch\StopWatchApplication\obj\Debug\net7.0-windows\StopWatchApplication.genruntimeconfig.cache
+C:\Users\ADMIN\StopWatch\StopWatchApplication\obj\Debug\net7.0-windows\ref\StopWatchApplication.dll
