@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StopWatchApplication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+542c067aa3da653bad1fc2a25df71d22b5568293")]
 [assembly: System.Reflection.AssemblyProductAttribute("StopWatchApplication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StopWatchApplication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
